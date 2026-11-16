@@ -149,7 +149,7 @@ function App() {
 /* ---------------- STYLES ---------------- */
 const s = {
   nav: {
-    background: "#222244", padding: "18px 60px", display: "flex",
+    background: "teal", padding: "18px 60px", display: "flex",
     justifyContent: "space-between", alignItems: "center",
   },
   navBtn: {
