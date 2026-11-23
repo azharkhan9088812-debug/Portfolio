@@ -9,7 +9,7 @@ const {
     updateProduct,
     patchProduct,
     deleteProduct
-} = require('../controllers/productController');
+} = require('../Controllers/productcontroller');
 
 router.post('/', createProduct);
 router.get('/', getProducts);
